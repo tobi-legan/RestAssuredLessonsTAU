@@ -5,4 +5,8 @@ public class TobifirstTest {
     public void playWithGit(){
         //Play around git
     }
+    @Test
+    public void playWithGit2(){
+        //Play around git
+    }
 }
